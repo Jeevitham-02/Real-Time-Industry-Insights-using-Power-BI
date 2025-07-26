@@ -2,12 +2,12 @@ This is a interactive Power BI dashboard to analyze Sales, Revenue, Customer Beh
 
 ### Key Insights Included:
 
-📈 Revenue, Profit & Cost Trends over time. category, etc. 
-🌍 Sales Performance by Region & Continent, year, customer's membership, etc. 
-👥 Customer Segmentation by Income, Gender, Age, Membership, Education, etc. 
-🛒 Top Products & Categories based on orders, margins, price, etc. 
-📆 Sales Patterns like Monthly and Weekday vs. Weekend sales. 
-🏷️ Product Pricing Analysis by price band and profit margins
+- 📈 Revenue, Profit & Cost Trends over time. category, etc. 
+- 🌍 Sales Performance by Region & Continent, year, customer's membership, etc. 
+- 👥 Customer Segmentation by Income, Gender, Age, Membership, Education, etc. 
+- 🛒 Top Products & Categories based on orders, margins, price, etc. 
+- 📆 Sales Patterns like Monthly and Weekday vs. Weekend sales. 
+- 🏷️ Product Pricing Analysis by price band and profit margins
 
 #### This dashboard demonstrates the power of visual storytelling and data-driven decision-making using Power BI.
 
