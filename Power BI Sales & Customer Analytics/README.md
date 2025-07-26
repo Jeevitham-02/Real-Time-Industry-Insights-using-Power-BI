@@ -11,6 +11,6 @@ This is a interactive Power BI dashboard to analyze Sales, Revenue, Customer Beh
 
 #### This dashboard demonstrates the power of visual storytelling and data-driven decision-making using Power BI.
 
-Dataset: Simulated sample retail data
-Tools Used: Power BI Desktop
-Report PDF: https://drive.google.com/file/d/1UgvgLDwTYnE4197WBNhX-jnu6-hBTM-G/view?usp=drive_link
+- Dataset: Simulated sample retail data
+- Tools Used: Power BI Desktop
+- Report PDF: https://drive.google.com/file/d/1UgvgLDwTYnE4197WBNhX-jnu6-hBTM-G/view?usp=drive_link
